@@ -1,2 +1,2 @@
 # hello-world
-GitHub first
+a bit about yourself
